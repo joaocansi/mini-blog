@@ -34,7 +34,7 @@ This project was created only for learning purposes. Basically, you'll be able t
   Route: /dashboard
 </p>
 <p align="center">
-  Route: /dashboard
   <img src="https://i.ibb.co/t3WMKTQ/download.png">
 </p>
-### How to start
+
+## How to start
