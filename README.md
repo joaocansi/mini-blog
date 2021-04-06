@@ -38,3 +38,8 @@ This project was created only for learning purposes. Basically, you'll be able t
 </p>
 
 ## How to start
+
+- Starting the postgres
+  ´´´sh
+    docker-compose up
+  ´´´
