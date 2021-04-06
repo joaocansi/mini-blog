@@ -5,7 +5,7 @@ This project was created only for learning purposes. Basically, you'll be able t
 <p align="center">
   <img width="480" height="auto" src="https://i.ibb.co/Q8DKBG8/1-OA9c8-Cov-Xaqjwbzi-q-YKs-A.jpg">
 </p>
-### Pages
+## Pages
 <p align="center">
   Route: /login
 </p>
