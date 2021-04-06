@@ -8,19 +8,30 @@ This project was created only for learning purposes. Basically, you'll be able t
 ### Pages
 <p align="center">
   Route: /login
+</p>
+<p align="center">
   <img src="https://i.ibb.co/GFkb7Rg/download-4.png">
 </p>
 <p align="center">
   Route: /register
+</p>
+<p align="center">
   <img src="https://i.ibb.co/Ttdwqg7/download-3.png">
 </p>
 <p align="center">
-  Route: /post/:postId
+  Route: /post/PostId
+</p>
+<p align="center">
   <img src="https://i.ibb.co/8Xf0HsT/download-2.png">
 </p>
 <p align="center">
   Route: /dashboard/create
+</p>
+<p align="center">
   <img src="https://i.ibb.co/qMH9vcC/download-1.png">
+</p>
+<p align="center">
+  Route: /dashboard
 </p>
 <p align="center">
   Route: /dashboard
