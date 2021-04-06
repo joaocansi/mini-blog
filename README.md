@@ -5,6 +5,7 @@ This project was created only for learning purposes. Basically, you'll be able t
 <p align="center">
   <img width="480" height="auto" src="https://i.ibb.co/Q8DKBG8/1-OA9c8-Cov-Xaqjwbzi-q-YKs-A.jpg">
 </p>
+
 ## Pages
 <p align="center">
   Route: /login
@@ -40,6 +41,17 @@ This project was created only for learning purposes. Basically, you'll be able t
 ## How to start
 
 - Starting the postgres
-  ´´´sh
+  ```sh
+    cd mini-blog
     docker-compose up
-  ´´´
+  ```
+- Starting the server
+  ```sh
+    cd mini-blog/server
+    yarn start:dev
+  ```
+- Starting the client
+  ```sh
+    cd mini-blog/client
+    yarn dev
+  ```
