@@ -1,0 +1,53 @@
+.postContainer {
+
+  .postHeader {
+    width: 100%;
+    padding: 5rem 0;
+
+    text-align: center;
+    background-color: var(--white);
+
+    i {
+      font-size: 3rem;
+      margin-bottom: 2rem;
+
+      color: var(--dark-gray);
+      cursor: pointer;
+
+      transition: filter .25s;
+      &:hover {
+        filter: brightness(.9);
+      }
+    }
+
+    h1 {
+      font-size: 3rem;
+      color: #29aad5;
+    }
+
+    p {
+      margin-top: 1rem;
+      font-size: 1.5rem;
+
+      font-weight: 200;
+      color: var(--gray);
+    }
+
+    > div {
+      width: 95%;
+      max-width: 960px;
+
+      margin:  0 auto;
+    }
+  }
+
+  .postContent {
+    width: 95%;
+    max-width: 860px;
+
+    margin: 5rem auto;
+    background-color: var(--white);
+
+    border-radius: 10px;
+  }
+}

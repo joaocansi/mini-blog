@@ -1,0 +1,48 @@
+.postContainer {
+  width: 95%;
+  max-width: 560px;
+
+  p {
+    font-size: 1.45rem;
+    margin-top: 1rem;
+
+    font-weight: 200;
+    color: var(--gray);
+
+    word-wrap: break-word;
+  }
+
+  .postTitle {
+    width: 100%;
+    padding: .5rem;
+
+    position: relative;
+    background-color: var(--yellow);
+
+    color: var(--dark-gray);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+
+    h5 {
+      font-size: 2.5rem;
+      font-weight: 100;
+
+      word-wrap: break-word;
+    }
+  }
+
+  .postReadMore {
+    margin-top: 1rem;
+
+    a {
+      font-size: 1.5rem;
+      color: var(--red);
+
+      filter: brightness(.8);
+      font-weight: 200;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}

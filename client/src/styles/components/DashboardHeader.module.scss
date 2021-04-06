@@ -1,0 +1,39 @@
+.dashboardHeaderContainer {
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+
+  justify-content: space-between;
+  align-items: center;
+
+  height: 7.5vh;
+
+  h1 {
+    color: var(--white);
+    text-transform: uppercase;
+
+    cursor: pointer;
+    font-size: 2rem;
+  }
+
+  > div {
+    color: var(--white);
+    font-size: 1.75rem;
+
+    text-transform: uppercase;
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    cursor: pointer;
+    transition: filter .5s;
+
+    &:hover {
+      filter: brightness(.99);
+    }
+
+    i {
+      margin-right: .5rem;
+    }
+  }
+}

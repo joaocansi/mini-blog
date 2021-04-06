@@ -1,0 +1,35 @@
+.container {
+  width: 100%;
+  min-height: 100vh;
+
+  h2 {
+    text-align: center;
+    margin: 5rem;
+
+    font-size: 5rem;
+    font-weight: 900;
+
+    font-family: 'Roboto', sans-serif;
+    color: var(--white);
+          
+    text-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  }
+
+  main {
+    width: 90%;
+    max-width: 960px;
+
+    margin: 0 auto;  
+  }
+
+  .postsContainer {
+    display: flex;
+    align-items: center;
+
+    flex-direction: column;
+
+    > div:nth-child(n + 2) {
+      margin-top: 5rem;
+    }
+  }
+}
