@@ -40,17 +40,22 @@ This project was created only for learning purposes. Basically, you'll be able t
 
 ## How to start
 
-- Starting the postgres
+- Starting the postgres database:
+
   ```sh
     cd mini-blog
     docker-compose up
   ```
-- Starting the server
+  
+- Starting the server:
+
   ```sh
     cd mini-blog/server
     yarn start:dev
   ```
-- Starting the client
+  
+- Starting the client:
+
   ```sh
     cd mini-blog/client
     yarn dev
