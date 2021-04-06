@@ -6,7 +6,7 @@ This project was created only for learning purposes. Basically, you'll be able t
   <img width="480" height="auto" src="https://i.ibb.co/Q8DKBG8/1-OA9c8-Cov-Xaqjwbzi-q-YKs-A.jpg">
 </p>
 
-## Pages
+### Pages
 <p align="center">
   Route: /login
 </p>
@@ -38,7 +38,7 @@ This project was created only for learning purposes. Basically, you'll be able t
   <img src="https://i.ibb.co/t3WMKTQ/download.png">
 </p>
 
-## How to start
+### How to start
 
 - Starting the postgres database:
 
